@@ -1,10 +1,11 @@
 # AWSProject
 This project describes about the AWS S3 features  by using python
 
-1)File upload to S3 Bucket
+command to download the project dependencies :  pipreqs (or) pipreqs </path/>
 
+	1)File upload to S3 Bucket usin python
 
-2) Get the S3 bucket names available from AWS account
+	2)Get the S3 bucket names available from AWS account using python
 
 
 
