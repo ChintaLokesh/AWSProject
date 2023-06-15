@@ -1,0 +1,16 @@
+2023-06-15 12:29:32,430 INFO ---------- 
+
+2023-06-15 12:29:32,430 INFO ---------- 
+
+2023-06-15 12:29:36,466 INFO time taken:4.035216292002588
+2023-06-15 12:29:36,466 INFO ---------- 
+ 
+2023-06-15 12:29:36,467 INFO Response is:{'is_Demo_Enrolled': False, 'verification_Status': 'Verified', 'userId': 39020, 'authorities': ['ROLE_TEACHER'], 'LMS_token': '9f8047f40983381e9592845f4552f7df', 'uId': 37968, 'teacherId': 246, 'studentName': 'Prithvi A Dixit', 'credentialId': 39020, 'refreshtoken': 'eyJhbGciOiJIUzUxMiJ9.eyJ1SWQiOjM3OTY4LCJ0ZWFjaGVySWQiOjI0NiwiaXNfRGVtb19FbnJvbGxlZCI6ZmFsc2UsInN0dWRlbnROYW1lIjoiUHJpdGh2aSBBIERpeGl0IiwiY3JlZGVudGlhbElkIjozOTAyMCwidmVyaWZpY2F0aW9uX1N0YXR1cyI6IlZlcmlmaWVkIiwiZXhwIjoxNzE4NDM0Nzc3LCJ1c2VySWQiOjM5MDIwLCJpYXQiOjE2ODY4MTIzNzcsImF1dGhvcml0aWVzIjpbIlJPTEVfVEVBQ0hFUiJdLCJ1c2VybmFtZSI6Ijc0MTExMzI5OTQiLCJMTVNfdG9rZW4iOiI5ZjgwNDdmNDA5ODMzODFlOTU5Mjg0NWY0NTUyZjdkZiJ9.jiGMiVJvw-r2jYQD9zjics2FDKQL0rxeItdgFNVshNXy01r4F9yAwi_dal1qbDxoM9UcoIFfmEX0OSeuVD-pVw', 'exp': 1718434777, 'iat': 1686812377, 'username': '7411132994'}
+2023-06-15 12:29:36,467 INFO ---------- 
+ 
+2023-06-15 12:29:36,521 INFO time taken:4.0910434819961665
+2023-06-15 12:29:36,522 INFO ---------- 
+ 
+2023-06-15 12:29:36,522 INFO Response is:{'is_Demo_Enrolled': True, 'verification_Status': 'Verified', 'userId': 90486, 'authorities': ['ROLE_STUDENT'], 'LMS_token': '9f8047f40983381e9592845f4552f7df', 'studentId': 81903, 'result': 'PAID', 'uId': 87874, 'studentName': 'lokesh chinta', 'credentialId': 90486, 'refreshtoken': 'eyJhbGciOiJIUzUxMiJ9.eyJpc19EZW1vX0Vucm9sbGVkIjp0cnVlLCJ2ZXJpZmljYXRpb25fU3RhdHVzIjoiVmVyaWZpZWQiLCJ1c2VySWQiOjkwNDg2LCJhdXRob3JpdGllcyI6WyJST0xFX1NUVURFTlQiXSwiTE1TX3Rva2VuIjoiOWY4MDQ3ZjQwOTgzMzgxZTk1OTI4NDVmNDU1MmY3ZGYiLCJzdHVkZW50SWQiOjgxOTAzLCJyZXN1bHQiOiJQQUlEIiwidUlkIjo4Nzg3NCwic3R1ZGVudE5hbWUiOiJsb2tlc2ggY2hpbnRhIiwiY3JlZGVudGlhbElkIjo5MDQ4NiwiZXhwIjoxNzE4NDM0Nzc3LCJpYXQiOjE2ODY4MTIzNzcsInVzZXJuYW1lIjoiOTgxOTI2MzI5MiJ9.Aid3dkk5glD3TPs9lQl-IB-G-x2WbRHs12h2E6LTo6H9cFd7jcsHmVWu8Zv9ySZquUQuXqDYKWf6IDX-y1F3jw', 'exp': 1718434777, 'iat': 1686812377, 'username': '9819263292'}
+2023-06-15 12:29:36,522 INFO ---------- 
+ 
